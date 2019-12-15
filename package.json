@@ -1,0 +1,19 @@
+{
+  "name": "week-11-hw",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaron-R-Carter/week-11-hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aaron-R-Carter/week-11-hw/issues"
+  },
+  "homepage": "https://github.com/Aaron-R-Carter/week-11-hw#readme"
+}
